@@ -1,4 +1,4 @@
-# week4-ai-assignmentweek4-ai-assignment/
+# week4-ai-assignment
 │
 ├── README.md
 └── a# Week 4 Assignment
